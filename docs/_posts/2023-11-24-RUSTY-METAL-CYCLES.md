@@ -1,7 +1,9 @@
+---
 layout: post
 title: "Rusty Metal Cycles"
 date: 2023-11-24
 categories: words
+---
 
 ## Rusty Metals Cycles
 
